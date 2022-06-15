@@ -29,3 +29,6 @@
 "клюющий" -> true
 "кодер" -> false
 "цыпленок"-> false
+
+
+![изображение](https://user-images.githubusercontent.com/103875177/173855411-d9eb742c-91b3-45b4-9735-c89d7aad8833.png)
